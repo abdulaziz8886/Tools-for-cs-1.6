@@ -1,0 +1,43 @@
+[en]
+BACK = \yBack\w
+EXIT = \rExit\w
+MORE = \yMore\w
+NONE = \wNone\w
+ADMIN = ADMIN
+PLAYER = PLAYER
+ERROR = error
+YES = Yes
+NO = No
+BAN = ban
+KICK = kick
+NO_ACC_COM = You have no access to that command
+USAGE = Usage
+MORE_CL_MATCHT = There is more than one client matching your argument
+CL_NOT_FOUND = Client with that name or userid not found
+CLIENT_IMM = Client "%s" has immunity
+CANT_PERF_DEAD = That action can't be performed on dead client "%s"
+CANT_PERF_BOT = That action can't be performed on bot "%s"
+ON = \rOn\w
+OFF = \yOff\w
+
+[ru]
+BACK = \yНазад\w
+EXIT = \rВыход\w
+MORE = \yДалее\w
+NONE = \wНичего\w
+ADMIN = АДМИНИСТРАТОР
+PLAYER = Игрок
+ERROR = ОШИБКА
+YES = Да
+NO = Нет
+BAN = Бан
+KICK = Кикнуть
+NO_ACC_COM = У вас недостаточно прав для использования этой команды!
+USAGE = Использование
+MORE_CL_MATCHT = По вашему запросу найден не один игрок!
+CL_NOT_FOUND = Игрок с таким ником или userid не найден!
+CLIENT_IMM = "%s" имеет иммунитет
+CANT_PERF_DEAD = !nНеприменимо к мертвому игроку "!g%s!n"
+CANT_PERF_BOT = Непременимо к боту "%s"
+ON = \rВКЛ.\w
+OFF = \yВЫКЛ.\w

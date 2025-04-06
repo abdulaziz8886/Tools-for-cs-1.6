@@ -1,0 +1,140 @@
+L 09/05/2014 - 14:34:42: -------- Mapchange to de_dust2 --------
+L 09/05/2014 - 14:34:42: [AMXX] Plugin "adminhelp.amxx" failed to load: Module/Library "chatcolor" required for plugin.  Check modules.ini.
+L 09/05/2014 - 14:34:42: [AMXX] Plugin "multilingual.amxx" failed to load: Module/Library "chatcolor" required for plugin.  Check modules.ini.
+L 09/05/2014 - 14:34:42: [AMXX] Plugin "plmenu.amxx" failed to load: Module/Library "chatcolor" required for plugin.  Check modules.ini.
+L 09/05/2014 - 14:34:42: [AMXX] Plugin "mapsmenu.amxx" failed to load: Module/Library "chatcolor" required for plugin.  Check modules.ini.
+L 09/05/2014 - 14:34:42: [AMXX] Plugin "antiflood.amxx" failed to load: Module/Library "chatcolor" required for plugin.  Check modules.ini.
+L 09/05/2014 - 14:34:42: [AMXX] Plugin "adminvote.amxx" failed to load: Module/Library "chatcolor" required for plugin.  Check modules.ini.
+L 09/05/2014 - 14:34:42: [AMXX] Plugin "nextmap.amxx" failed to load: Module/Library "chatcolor" required for plugin.  Check modules.ini.
+L 09/05/2014 - 14:34:42: [AMXX] Plugin "mapchooser.amxx" failed to load: Module/Library "chatcolor" required for plugin.  Check modules.ini.
+L 09/05/2014 - 14:34:42: [AMXX] Plugin "timeleft.amxx" failed to load: Module/Library "chatcolor" required for plugin.  Check modules.ini.
+L 09/05/2014 - 14:34:42: [AMXX] Plugin "pausecfg.amxx" failed to load: Module/Library "chatcolor" required for plugin.  Check modules.ini.
+L 09/05/2014 - 14:34:42: [AMXX] Plugin "statscfg.amxx" failed to load: Module/Library "chatcolor" required for plugin.  Check modules.ini.
+L 09/05/2014 - 14:34:42: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library "chatcolor" required for plugin.  Check modules.ini.
+L 09/05/2014 - 14:34:50: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.101")
+L 09/05/2014 - 14:36:27: -------- Mapchange to de_dust2 --------
+L 09/05/2014 - 14:36:27: [AMXX] Plugin "adminhelp.amxx" failed to load: Module/Library "chatcolor" required for plugin.  Check modules.ini.
+L 09/05/2014 - 14:36:27: [AMXX] Plugin "multilingual.amxx" failed to load: Module/Library "chatcolor" required for plugin.  Check modules.ini.
+L 09/05/2014 - 14:36:27: [AMXX] Plugin "plmenu.amxx" failed to load: Module/Library "chatcolor" required for plugin.  Check modules.ini.
+L 09/05/2014 - 14:36:27: [AMXX] Plugin "mapsmenu.amxx" failed to load: Module/Library "chatcolor" required for plugin.  Check modules.ini.
+L 09/05/2014 - 14:36:27: [AMXX] Plugin "antiflood.amxx" failed to load: Module/Library "chatcolor" required for plugin.  Check modules.ini.
+L 09/05/2014 - 14:36:27: [AMXX] Plugin "adminvote.amxx" failed to load: Module/Library "chatcolor" required for plugin.  Check modules.ini.
+L 09/05/2014 - 14:36:27: [AMXX] Plugin "nextmap.amxx" failed to load: Module/Library "chatcolor" required for plugin.  Check modules.ini.
+L 09/05/2014 - 14:36:27: [AMXX] Plugin "mapchooser.amxx" failed to load: Module/Library "chatcolor" required for plugin.  Check modules.ini.
+L 09/05/2014 - 14:36:27: [AMXX] Plugin "timeleft.amxx" failed to load: Module/Library "chatcolor" required for plugin.  Check modules.ini.
+L 09/05/2014 - 14:36:27: [AMXX] Plugin "pausecfg.amxx" failed to load: Module/Library "chatcolor" required for plugin.  Check modules.ini.
+L 09/05/2014 - 14:36:27: [AMXX] Plugin "statscfg.amxx" failed to load: Module/Library "chatcolor" required for plugin.  Check modules.ini.
+L 09/05/2014 - 14:36:27: [AMXX] Plugin "statsx.amxx" failed to load: Module/Library "chatcolor" required for plugin.  Check modules.ini.
+L 09/05/2014 - 14:36:34: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.101")
+L 09/05/2014 - 14:37:21: -------- Mapchange to de_dust2 --------
+L 09/05/2014 - 14:38:09: -------- Mapchange to de_dust2 --------
+L 09/05/2014 - 14:38:15: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.101")
+L 09/05/2014 - 14:38:27: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/05/2014 - 14:38:29: -------- Mapchange to de_dust2 --------
+L 09/05/2014 - 14:38:29: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.101")
+L 09/05/2014 - 14:40:53: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/05/2014 - 14:40:55: -------- Mapchange to de_dust2 --------
+L 09/05/2014 - 14:40:56: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/05/2014 - 14:40:56: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.101")
+L 09/05/2014 - 14:42:11: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/05/2014 - 14:42:13: -------- Mapchange to de_dust2 --------
+L 09/05/2014 - 14:42:13: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/05/2014 - 14:42:14: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.101")
+L 09/05/2014 - 14:46:42: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/05/2014 - 14:46:44: -------- Mapchange to de_dust2 --------
+L 09/05/2014 - 14:46:44: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 09/05/2014 - 14:46:44: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/05/2014 - 14:46:44: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\afk_manager.txt" line 1)
+L 09/05/2014 - 14:46:44: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\block_key.txt" line 1)
+L 09/05/2014 - 14:46:45: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.101")
+L 09/05/2014 - 14:47:36: [admin.amxx] Login: "Super<2><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.101")
+L 09/05/2014 - 14:57:38: [admin.amxx] Login: "Super<3><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.101")
+L 09/05/2014 - 14:57:59: [mapsmenu.amxx] Cmd: "Super<3><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/05/2014 - 14:58:01: -------- Mapchange to de_dust2 --------
+L 09/05/2014 - 14:58:01: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/05/2014 - 14:58:01: [admin.amxx] Login: "Super<3><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.101")
+L 09/05/2014 - 15:00:55: [admin.amxx] Login: "Super<4><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.101")
+L 09/05/2014 - 15:03:55: [admin.amxx] Login: "Super<5><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.101")
+L 09/05/2014 - 15:04:57: [admin.amxx] Login: "Super<6><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.101")
+L 09/05/2014 - 15:09:38: [mapsmenu.amxx] Cmd: "Super<6><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/05/2014 - 15:09:40: -------- Mapchange to de_dust2 --------
+L 09/05/2014 - 15:09:40: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/05/2014 - 15:09:40: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\afk_manager.txt" line 1)
+L 09/05/2014 - 15:09:40: [admin.amxx] Login: "Super<6><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.101")
+L 09/05/2014 - 15:15:34: [admin.amxx] Login: "Super<7><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.101")
+L 09/05/2014 - 15:16:25: [admin.amxx] Login: "Super<8><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.101")
+L 09/05/2014 - 15:16:54: [mapsmenu.amxx] Cmd: "Super<8><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/05/2014 - 15:16:56: -------- Mapchange to de_dust2 --------
+L 09/05/2014 - 15:16:56: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/05/2014 - 15:16:57: [admin.amxx] Login: "Super<8><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.101")
+L 09/05/2014 - 15:43:10: -------- Mapchange to de_dust2 --------
+L 09/05/2014 - 15:43:11: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 09/05/2014 - 15:43:28: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/05/2014 - 15:43:28: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\afk_manager.txt" line 1)
+L 09/05/2014 - 15:43:28: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\block_key.txt" line 1)
+L 09/05/2014 - 15:43:38: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.101")
+L 09/05/2014 - 16:08:16: -------- Mapchange to de_dust2 --------
+L 09/05/2014 - 16:08:16: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 09/05/2014 - 16:08:17: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/05/2014 - 16:08:17: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\afk_manager.txt" line 1)
+L 09/05/2014 - 16:08:17: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\block_key.txt" line 1)
+L 09/05/2014 - 16:08:37: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.101")
+L 09/05/2014 - 23:01:23: -------- Mapchange to de_dust2 --------
+L 09/05/2014 - 23:01:23: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 09/05/2014 - 23:01:27: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/05/2014 - 23:01:27: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\afk_manager.txt" line 1)
+L 09/05/2014 - 23:01:27: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\block_key.txt" line 1)
+L 09/05/2014 - 23:01:46: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.104")
+L 09/05/2014 - 23:02:46: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/05/2014 - 23:02:48: -------- Mapchange to de_dust2 --------
+L 09/05/2014 - 23:02:48: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/05/2014 - 23:02:48: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.104")
+L 09/05/2014 - 23:05:28: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/05/2014 - 23:05:30: -------- Mapchange to de_dust2 --------
+L 09/05/2014 - 23:05:30: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/05/2014 - 23:05:30: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.104")
+L 09/05/2014 - 23:06:18: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/05/2014 - 23:06:20: -------- Mapchange to de_dust2 --------
+L 09/05/2014 - 23:06:20: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/05/2014 - 23:06:20: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.104")
+L 09/05/2014 - 23:09:35: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/05/2014 - 23:09:37: -------- Mapchange to de_dust2 --------
+L 09/05/2014 - 23:09:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/05/2014 - 23:09:37: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.104")
+L 09/05/2014 - 23:12:22: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust"
+L 09/05/2014 - 23:12:24: -------- Mapchange to de_dust --------
+L 09/05/2014 - 23:12:24: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/05/2014 - 23:12:24: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.104")
+L 09/05/2014 - 23:13:37: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/05/2014 - 23:13:40: -------- Mapchange to de_dust2 --------
+L 09/05/2014 - 23:13:40: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/05/2014 - 23:13:40: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.104")
+L 09/05/2014 - 23:23:00: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/05/2014 - 23:23:02: -------- Mapchange to de_dust2 --------
+L 09/05/2014 - 23:23:03: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/05/2014 - 23:23:03: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.104")
+L 09/05/2014 - 23:24:57: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/05/2014 - 23:24:59: -------- Mapchange to de_dust2 --------
+L 09/05/2014 - 23:24:59: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/05/2014 - 23:25:00: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.104")
+L 09/05/2014 - 23:26:13: [plmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" transfer "Super<1><STEAM_0:0:91697561><>" (team "TERRORIST")
+L 09/05/2014 - 23:32:42: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/05/2014 - 23:32:44: -------- Mapchange to de_dust2 --------
+L 09/05/2014 - 23:32:45: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/05/2014 - 23:32:45: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.104")
+L 09/05/2014 - 23:47:03: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/05/2014 - 23:47:05: -------- Mapchange to de_dust2 --------
+L 09/05/2014 - 23:47:05: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/05/2014 - 23:47:05: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.104")
+L 09/05/2014 - 23:48:16: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/05/2014 - 23:48:18: -------- Mapchange to de_dust2 --------
+L 09/05/2014 - 23:48:18: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/05/2014 - 23:48:18: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.104")
+L 09/05/2014 - 23:50:27: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/05/2014 - 23:50:29: -------- Mapchange to de_dust2 --------
+L 09/05/2014 - 23:50:30: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/05/2014 - 23:50:30: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.104")
+L 09/05/2014 - 23:52:01: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/05/2014 - 23:52:03: -------- Mapchange to de_dust2 --------
+L 09/05/2014 - 23:52:04: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/05/2014 - 23:52:04: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.104")

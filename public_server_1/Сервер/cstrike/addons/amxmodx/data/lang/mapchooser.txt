@@ -1,0 +1,17 @@
+[en]
+CHO_FIN_EXT = !g[MapChooser 2.0] !nChoosing finished. Current map will be extended to next !g%.0f !nminutes
+CHO_FIN_NEXT = !g[MapChooser 2.0] !nChoosing finished. The nextmap will be !g%s
+CHOSE_EXT = !g[MapChooser 2.0] %s !nchose map extending
+X_CHOSE_X = !g[MapChooser 2.0] %s !nchose !g%s
+CHOOSE_NEXTM = AMX Choose nextmap
+EXTED_MAP = Extend map %s
+TIME_CHOOSE = It's time to choose the nextmap...
+
+[ru]
+CHO_FIN_EXT = !g[MapChooser 2.0] !nГолосование завершено. Карта продлена на !g% !nминут.
+CHO_FIN_NEXT = !g[MapChooser 2.0] !nГолосование завершено. Следующая карта "!g%s!n"
+CHOSE_EXT = !g[MapChooser 2.0] !n"!g%s!n" выбрал продление карты
+X_CHOSE_X = !g[MapChooser 2.0] !n"!g%s!n" выбрал "!g%s!n"
+CHOOSE_NEXTM = Выбор следующей карты
+EXTED_MAP = Продление карты на %s
+TIME_CHOOSE = Пора выбирать следующую карту...

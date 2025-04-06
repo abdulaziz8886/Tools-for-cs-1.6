@@ -1,0 +1,1 @@
+hldsupdatetool.exe -command update -game cstrike -dir "C:\hlds"

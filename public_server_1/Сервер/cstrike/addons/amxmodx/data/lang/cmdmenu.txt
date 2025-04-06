@@ -1,0 +1,9 @@
+[en]
+CMD_MENU = \yCommands Menu\w
+CONF_MENU = \yConfigs Menu\w
+SPE_MENU = \ySpeech Menu\w
+
+[ru]
+CMD_MENU = \yМеню серверных команд\w
+CONF_MENU = \yМеню конфигураций\w
+SPE_MENU = \yМеню голосовых сообщений\w

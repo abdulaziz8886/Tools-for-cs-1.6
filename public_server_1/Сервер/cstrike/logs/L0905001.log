@@ -1,0 +1,48 @@
+L 09/05/2014 - 14:36:28: Log file started (file "logs\L0905001.log") (game "cstrike") (version "48/1.6.3.7/5408")
+L 09/05/2014 - 14:36:28: Server cvar "sv_maxspeed" = "320"
+L 09/05/2014 - 14:36:28: Server cvar "sv_maxrate" = "25000"
+L 09/05/2014 - 14:36:28: Server cvar "sv_minrate" = "2500"
+L 09/05/2014 - 14:36:28: Server cvar "decalfrequency" = "60"
+L 09/05/2014 - 14:36:28: Server cvar "mp_timelimit" = "50"
+L 09/05/2014 - 14:36:28: Server cvar "mp_autokick" = "0"
+L 09/05/2014 - 14:36:28: Server cvar "mp_c4timer" = "35"
+L 09/05/2014 - 14:36:28: Server cvar "mp_flashlight" = "1"
+L 09/05/2014 - 14:36:28: Server cvar "mp_freezetime" = "2"
+L 09/05/2014 - 14:36:28: Server cvar "mp_hostagepenalty" = "0"
+L 09/05/2014 - 14:36:28: Server cvar "mp_limitteams" = "0"
+L 09/05/2014 - 14:36:28: Server cvar "mp_chattime" = "2"
+L 09/05/2014 - 14:36:28: Server cvar "mp_roundtime" = "7"
+L 09/05/2014 - 14:36:28: Server cvar "mp_buytime" = "25"
+L 09/05/2014 - 14:36:28: Server cvar "mp_kickpercent" = "100"
+L 09/05/2014 - 14:36:28: Server cvar "mp_playerid" = "1"
+L 09/05/2014 - 14:36:28: Server cvar "sv_region" = "3"
+L 09/05/2014 - 14:36:28: Server cvar "sv_contact" = "vk.com/id63671168"
+L 09/05/2014 - 14:36:28: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 14:36:28: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 14:36:34: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_AVSMP]; pClient = 082814A0
+L 09/05/2014 - 14:36:34: "Super<1><STEAM_0:0:91697561><>" connected, address "192.168.1.101:27005"
+L 09/05/2014 - 14:36:36: World triggered "Round_Start"
+L 09/05/2014 - 14:36:38: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 14:36:38: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 14:36:39: "Super<1><STEAM_0:0:91697561><>" entered the game
+L 09/05/2014 - 14:36:41: "Super<1><STEAM_0:0:91697561><>" joined team "CT"
+L 09/05/2014 - 14:36:48: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 14:36:48: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 14:36:58: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 14:36:58: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 14:37:08: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 14:37:08: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 14:37:11: [WinHL-Booster] ERROR - unable to close performance monitor
+L 09/05/2014 - 14:37:11: [META] ini: Begin re-reading plugins list: c:/users/vadim/desktop/Сервер/cstrike/addons/metamod/plugins.ini
+L 09/05/2014 - 14:37:11: [META] ini: Read plugin config for: AMX Mod X
+L 09/05/2014 - 14:37:11: [META] ini: Read plugin config for: mmtimer
+L 09/05/2014 - 14:37:11: [META] ini: Read plugin config for: dproto
+L 09/05/2014 - 14:37:11: [META] ini: Read plugin config for: WinHL-Booster
+L 09/05/2014 - 14:37:11: [META] ini: Finished reading plugins list: c:/users/vadim/desktop/Сервер/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 09/05/2014 - 14:37:11: [META] dll: Updating plugins...
+L 09/05/2014 - 14:37:11: [META] dll: Finished updating 10 plugins; kept 4, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 09/05/2014 - 14:37:11: "Super<-1><><CT>" disconnected
+L 09/05/2014 - 14:37:11: World triggered "Round_Draw" (CT "0") (T "0")
+L 09/05/2014 - 14:37:11: World triggered "Round_End"
+L 09/05/2014 - 14:37:11: Server shutdown
+L 09/05/2014 - 14:37:11: Log file closed

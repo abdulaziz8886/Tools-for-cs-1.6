@@ -1,0 +1,33 @@
+<HTML>
+<HEAD>
+<TITLE>Правила сервера</TITLE>
+<STYLE>
+body { font-family: Tahoma }
+</STYLE>
+</HEAD>
+<BODY bgcolor=black>
+<FONT color=white>
+<UL>
+<FONT color=gold>Правила сервера</FONT>
+<LI>Запрещено использовать чит программы</LI>
+<LI>Запрещено распостранять рекламу на сервере</LI>
+<LI>Запрещено издавать непонятные звуки в микрофон</LI>
+<LI>Запрещено материться</LI>
+</UL>
+<BR>
+<UL>
+<FONT color=gold>Соблюдайте правила</FONT>
+<LI>Делайте игру себе</LI>
+<LI>Делай игру другим</LI>
+</UL>
+<BR>
+<UL>
+<FONT color=gold>Контакт</FONT>
+<LI><FONT color=green>Портал</FONT>: Pawno-Info.Ru</LI>
+<LI><FONT color=green>Приятной вам игры</LI>
+
+
+</UL>
+</FONT>
+</BODY>
+</HTML>

@@ -1,0 +1,30 @@
+<HTML>
+<HEAD>
+<TITLE>Информация по vip правах</TITLE>
+<STYLE>
+body { font-family: Tahoma }
+</STYLE>
+</HEAD>
+<BODY bgcolor=black>
+<FONT color=white>
+<UL>
+<FONT color=gold>Информация по vip правах</FONT>
+<LI>Всегда будете получать полный набор гранат</LI>
+<LI>Всегда будете получать полный набор брони</LI>
+<LI>Всегда будете получать AK47,M4A1,Deagle,AWP</LI>
+<LI>Команда /awp /dgl /ak47 /m4a1</LI>
+</UL>
+<BR>
+<UL>
+</UL>
+<BR>
+<UL>
+<FONT color=gold>Контакт</FONT>
+<LI><FONT color=green>Портал</FONT>: Pawno-Info.Ru</LI>
+<LI><FONT color=green>Приятной вам игры</LI>
+
+
+</UL>
+</FONT>
+</BODY>
+</HTML>

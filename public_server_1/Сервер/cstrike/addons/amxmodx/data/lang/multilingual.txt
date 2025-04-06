@@ -1,0 +1,21 @@
+[en]
+LANG_NOT_EXISTS = The language does not exist
+PERSO_LANG = Personal Language
+LANG_MENU = \yLanguage Menu\w
+SERVER_LANG = Server Language
+SAVE_LANG = \ySave Language\w
+SET_LANG_SERVER = !nThe server language has been set to "!g%s!n"
+SET_LANG_USER = !nYour language has been set to "!g%s!n"
+TYPE_LANGMENU = !nType '!gamx_langmenu!n' in the console to display a menu where you can choose your language
+LANG_MENU_DISABLED = Language menu disabled.
+
+[ru]
+LANG_NOT_EXISTS = Такой язык не существует!
+PERSO_LANG = Персональный язык
+LANG_MENU = \yМеню выбора языка\w
+SERVER_LANG = Язык сервера
+SAVE_LANG = \yСохранить язык\w
+SET_LANG_SERVER = !nЯзык по-умолчанию изменен на "!g%s!n"
+SET_LANG_USER = !nВаш язык изменен на "!g%s!n"
+TYPE_LANGMENU = !nНапишите "!gamx_langmenu!n" в консоле для выбора языка
+LANG_MENU_DISABLED = Меню выбора языка заблокировано!

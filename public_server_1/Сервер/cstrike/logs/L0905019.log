@@ -1,0 +1,250 @@
+L 09/05/2014 - 23:13:39: Log file started (file "logs\L0905019.log") (game "cstrike") (version "48/1.6.3.7/5408")
+L 09/05/2014 - 23:13:39: Loading map "de_dust2"
+L 09/05/2014 - 23:13:39: Server cvars start
+L 09/05/2014 - 23:13:39: Server cvar "_tutor_bomb_viewable_check_interval" = "0.5"
+L 09/05/2014 - 23:13:39: Server cvar "_tutor_debug_level" = "0"
+L 09/05/2014 - 23:13:39: Server cvar "_tutor_examine_time" = "0.5"
+L 09/05/2014 - 23:13:39: Server cvar "_tutor_hint_interval_time" = "10.0"
+L 09/05/2014 - 23:13:39: Server cvar "_tutor_look_angle" = "10"
+L 09/05/2014 - 23:13:39: Server cvar "_tutor_look_distance" = "200"
+L 09/05/2014 - 23:13:39: Server cvar "_tutor_message_character_display_time_coefficient" = "0.07"
+L 09/05/2014 - 23:13:39: Server cvar "_tutor_message_minimum_display_time" = "1"
+L 09/05/2014 - 23:13:39: Server cvar "_tutor_message_repeats" = "5"
+L 09/05/2014 - 23:13:39: Server cvar "_tutor_view_distance" = "1000"
+L 09/05/2014 - 23:13:39: Server cvar "allow_spectators" = "1.0"
+L 09/05/2014 - 23:13:39: Server cvar "amx_client_languages" = "1"
+L 09/05/2014 - 23:13:39: Server cvar "amx_contactinfo" = ""
+L 09/05/2014 - 23:13:39: Server cvar "amx_language" = "ru"
+L 09/05/2014 - 23:13:39: Server cvar "amx_nextmap" = "de_train"
+L 09/05/2014 - 23:13:39: Server cvar "amx_timeleft" = "48:44"
+L 09/05/2014 - 23:13:39: Server cvar "amxmodx_version" = "1.8.1.3746"
+L 09/05/2014 - 23:13:39: Server cvar "booster_version" = "1.70"
+L 09/05/2014 - 23:13:39: Server cvar "coop" = "0"
+L 09/05/2014 - 23:13:39: Server cvar "deathmatch" = "1"
+L 09/05/2014 - 23:13:39: Server cvar "decalfrequency" = "60"
+L 09/05/2014 - 23:13:39: Server cvar "dp_version" = "0.9.122"
+L 09/05/2014 - 23:13:39: Server cvar "edgefriction" = "2"
+L 09/05/2014 - 23:13:39: Server cvar "hostage_debug" = "0"
+L 09/05/2014 - 23:13:39: Server cvar "hostage_stop" = "0"
+L 09/05/2014 - 23:13:39: Server cvar "humans_join_team" = "any"
+L 09/05/2014 - 23:13:39: Server cvar "max_queries_sec" = "3.0"
+L 09/05/2014 - 23:13:39: Server cvar "max_queries_sec_global" = "30"
+L 09/05/2014 - 23:13:39: Server cvar "max_queries_window" = "60"
+L 09/05/2014 - 23:13:39: Server cvar "metamod_version" = "1.19"
+L 09/05/2014 - 23:13:39: Server cvar "mp_allowmonsters" = "0"
+L 09/05/2014 - 23:13:39: Server cvar "mp_autokick" = "0"
+L 09/05/2014 - 23:13:39: Server cvar "mp_autoteambalance" = "1"
+L 09/05/2014 - 23:13:39: Server cvar "mp_buytime" = "25"
+L 09/05/2014 - 23:13:39: Server cvar "mp_c4timer" = "35"
+L 09/05/2014 - 23:13:39: Server cvar "mp_chattime" = "2"
+L 09/05/2014 - 23:13:39: Server cvar "mp_consistency" = "1"
+L 09/05/2014 - 23:13:39: Server cvar "mp_fadetoblack" = "0"
+L 09/05/2014 - 23:13:39: Server cvar "mp_flashlight" = "1"
+L 09/05/2014 - 23:13:39: Server cvar "mp_footsteps" = "1"
+L 09/05/2014 - 23:13:39: Server cvar "mp_forcecamera" = "0"
+L 09/05/2014 - 23:13:39: Server cvar "mp_forcechasecam" = "0"
+L 09/05/2014 - 23:13:39: Server cvar "mp_fragsleft" = "0"
+L 09/05/2014 - 23:13:39: Server cvar "mp_freezetime" = "2"
+L 09/05/2014 - 23:13:39: Server cvar "mp_friendlyfire" = "0"
+L 09/05/2014 - 23:13:39: Server cvar "mp_ghostfrequency" = "0.1"
+L 09/05/2014 - 23:13:39: Server cvar "mp_hostagepenalty" = "0"
+L 09/05/2014 - 23:13:39: Server cvar "mp_kickpercent" = "100"
+L 09/05/2014 - 23:13:39: Server cvar "mp_limitteams" = "0"
+L 09/05/2014 - 23:13:39: Server cvar "mp_logdetail" = "0"
+L 09/05/2014 - 23:13:39: Server cvar "mp_logfile" = "1"
+L 09/05/2014 - 23:13:39: Server cvar "mp_logmessages" = "1"
+L 09/05/2014 - 23:13:39: Server cvar "mp_mapvoteratio" = "0.66"
+L 09/05/2014 - 23:13:39: Server cvar "mp_maxrounds" = "0"
+L 09/05/2014 - 23:13:39: Server cvar "mp_mirrordamage" = "0"
+L 09/05/2014 - 23:13:39: Server cvar "mp_playerid" = "1"
+L 09/05/2014 - 23:13:39: Server cvar "mp_roundtime" = "7"
+L 09/05/2014 - 23:13:39: Server cvar "mp_startmoney" = "800"
+L 09/05/2014 - 23:13:39: Server cvar "mp_timeleft" = "0"
+L 09/05/2014 - 23:13:39: Server cvar "mp_timelimit" = "50"
+L 09/05/2014 - 23:13:39: Server cvar "mp_tkpunish" = "0"
+L 09/05/2014 - 23:13:39: Server cvar "mp_windifference" = "1"
+L 09/05/2014 - 23:13:39: Server cvar "mp_winlimit" = "0"
+L 09/05/2014 - 23:13:39: Server cvar "pausable" = "0"
+L 09/05/2014 - 23:13:39: Server cvar "server_fps" = "999"
+L 09/05/2014 - 23:13:39: Server cvar "statsx_shell_ver" = "2.0.0 (BETA)"
+L 09/05/2014 - 23:13:39: Server cvar "sv_accelerate" = "5"
+L 09/05/2014 - 23:13:39: Server cvar "sv_aim" = "0"
+L 09/05/2014 - 23:13:39: Server cvar "sv_airaccelerate" = "10"
+L 09/05/2014 - 23:13:39: Server cvar "sv_airmove" = "1"
+L 09/05/2014 - 23:13:39: Server cvar "sv_allowupload" = "1"
+L 09/05/2014 - 23:13:39: Server cvar "sv_alltalk" = "0"
+L 09/05/2014 - 23:13:39: Server cvar "sv_bounce" = "1"
+L 09/05/2014 - 23:13:39: Server cvar "sv_cheats" = "0"
+L 09/05/2014 - 23:13:39: Server cvar "sv_clienttrace" = "1"
+L 09/05/2014 - 23:13:39: Server cvar "sv_clipmode" = "0"
+L 09/05/2014 - 23:13:39: Server cvar "sv_contact" = "vk.com/id63671168"
+L 09/05/2014 - 23:13:39: Server cvar "sv_friction" = "4"
+L 09/05/2014 - 23:13:39: Server cvar "sv_gravity" = "800"
+L 09/05/2014 - 23:13:39: Server cvar "sv_logblocks" = "0"
+L 09/05/2014 - 23:13:39: Server cvar "sv_maxrate" = "25000"
+L 09/05/2014 - 23:13:39: Server cvar "sv_maxspeed" = "900"
+L 09/05/2014 - 23:13:39: Server cvar "sv_minrate" = "2500"
+L 09/05/2014 - 23:13:39: Server cvar "sv_password" = ""
+L 09/05/2014 - 23:13:39: Server cvar "sv_proxies" = "1"
+L 09/05/2014 - 23:13:39: Server cvar "sv_region" = "3"
+L 09/05/2014 - 23:13:39: Server cvar "sv_restart" = "0"
+L 09/05/2014 - 23:13:39: Server cvar "sv_restartround" = "0"
+L 09/05/2014 - 23:13:39: Server cvar "sv_stepsize" = "18"
+L 09/05/2014 - 23:13:39: Server cvar "sv_stopspeed" = "75"
+L 09/05/2014 - 23:13:39: Server cvar "sv_uploadmax" = "0.5"
+L 09/05/2014 - 23:13:39: Server cvar "sv_voiceenable" = "1"
+L 09/05/2014 - 23:13:39: Server cvar "sv_wateraccelerate" = "10"
+L 09/05/2014 - 23:13:39: Server cvar "sv_waterfriction" = "1"
+L 09/05/2014 - 23:13:39: Server cvar "sys_ticrate" = "10000"
+L 09/05/2014 - 23:13:39: Server cvars end
+L 09/05/2014 - 23:13:40: [WinHL-Booster] ERROR - unable to create performance monitor
+L 09/05/2014 - 23:13:40: Server cvar "amx_nextmap" = "de_dust"
+L 09/05/2014 - 23:13:40: Server cvar "sv_restart" = "1"
+L 09/05/2014 - 23:13:40: World triggered "Restart_Round_(1_second)"
+L 09/05/2014 - 23:13:40: Team "CT" scored "0" with "0" players
+L 09/05/2014 - 23:13:40: Team "TERRORIST" scored "0" with "0" players
+L 09/05/2014 - 23:13:40: Server cvar "sv_restart" = "0"
+L 09/05/2014 - 23:13:40: Started map "de_dust2" (CRC "1159425449")
+L 09/05/2014 - 23:13:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:13:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:13:42: World triggered "Round_Start"
+L 09/05/2014 - 23:13:43: "Super<1><STEAM_0:0:91697561><>" entered the game
+L 09/05/2014 - 23:13:44: "Super<1><STEAM_0:0:91697561><>" joined team "TERRORIST"
+L 09/05/2014 - 23:13:44: "Super<1><STEAM_0:0:91697561><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 09/05/2014 - 23:13:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:13:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:14:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:14:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:14:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:14:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:14:19: "Super<1><STEAM_0:0:91697561><TERRORIST>" say "/buyvip"
+L 09/05/2014 - 23:14:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:14:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:14:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:14:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:14:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:14:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:14:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:14:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:15:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:15:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:15:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:15:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:15:12: "Super<1><STEAM_0:0:91697561><TERRORIST>" triggered "Dropped_The_Bomb"
+L 09/05/2014 - 23:15:12: "Super<1><STEAM_0:0:91697561><TERRORIST>" committed suicide with "world"
+L 09/05/2014 - 23:15:12: World triggered "Round_Draw" (CT "0") (T "0")
+L 09/05/2014 - 23:15:12: World triggered "Round_End"
+L 09/05/2014 - 23:15:12: "Super<1><STEAM_0:0:91697561><TERRORIST>" joined team "SPECTATOR"
+L 09/05/2014 - 23:15:19: World triggered "Round_Start"
+L 09/05/2014 - 23:15:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:15:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:15:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:15:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:15:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:15:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:15:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:15:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:16:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:16:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:16:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:16:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:16:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:16:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:16:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:16:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:16:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:16:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:16:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:16:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:17:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:17:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:17:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:17:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:17:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:17:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:17:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:17:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:17:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:17:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:17:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:17:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:18:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:18:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:18:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:18:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:18:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:18:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:18:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:18:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:18:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:18:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:18:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:18:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:19:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:19:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:19:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:19:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:19:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:19:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:19:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:19:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:19:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:19:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:19:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:19:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:20:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:20:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:20:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:20:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:20:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:20:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:20:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:20:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:20:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:20:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:20:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:20:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:21:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:21:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:21:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:21:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:21:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:21:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:21:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:21:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:21:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:21:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:21:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:21:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:22:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:22:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:22:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:22:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:22:19: Team "CT" triggered "Target_Saved" (CT "1") (T "0")
+L 09/05/2014 - 23:22:19: World triggered "Round_End"
+L 09/05/2014 - 23:22:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:22:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:22:26: World triggered "Round_Start"
+L 09/05/2014 - 23:22:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:22:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:22:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:22:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:22:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:22:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:23:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:23:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:23:02: "Super<1><STEAM_0:0:91697561><SPECTATOR>" triggered "time" (time "9:19")
+L 09/05/2014 - 23:23:02: "Super<1><STEAM_0:0:91697561><SPECTATOR>" triggered "latency" (ping "5")
+L 09/05/2014 - 23:23:02: [WinHL-Booster] ERROR - unable to close performance monitor
+L 09/05/2014 - 23:23:02: [META] ini: Begin re-reading plugins list: c:/users/vadim/desktop/Сервер/cstrike/addons/metamod/plugins.ini
+L 09/05/2014 - 23:23:02: [META] ini: Read plugin config for: AMX Mod X
+L 09/05/2014 - 23:23:02: [META] ini: Read plugin config for: mmtimer
+L 09/05/2014 - 23:23:02: [META] ini: Read plugin config for: dproto
+L 09/05/2014 - 23:23:02: [META] ini: Read plugin config for: WinHL-Booster
+L 09/05/2014 - 23:23:02: [META] ini: Finished reading plugins list: c:/users/vadim/desktop/Сервер/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 09/05/2014 - 23:23:02: [META] dll: Updating plugins...
+L 09/05/2014 - 23:23:02: [META] dll: Finished updating 10 plugins; kept 4, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 09/05/2014 - 23:23:02: "Super<1><STEAM_0:0:91697561><SPECTATOR>" disconnected
+L 09/05/2014 - 23:23:02: World triggered "Round_Draw" (CT "1") (T "0")
+L 09/05/2014 - 23:23:02: World triggered "Round_End"
+L 09/05/2014 - 23:23:02: Log file closed

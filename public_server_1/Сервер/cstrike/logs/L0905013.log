@@ -1,0 +1,60 @@
+L 09/05/2014 - 23:01:27: Log file started (file "logs\L0905013.log") (game "cstrike") (version "48/1.6.3.7/5408")
+L 09/05/2014 - 23:01:27: Server cvar "sv_maxspeed" = "320"
+L 09/05/2014 - 23:01:27: Server cvar "sv_maxrate" = "25000"
+L 09/05/2014 - 23:01:27: Server cvar "sv_minrate" = "2500"
+L 09/05/2014 - 23:01:27: Server cvar "decalfrequency" = "60"
+L 09/05/2014 - 23:01:27: Server cvar "mp_timelimit" = "50"
+L 09/05/2014 - 23:01:27: Server cvar "mp_autokick" = "0"
+L 09/05/2014 - 23:01:27: Server cvar "mp_c4timer" = "35"
+L 09/05/2014 - 23:01:27: Server cvar "mp_flashlight" = "1"
+L 09/05/2014 - 23:01:27: Server cvar "mp_freezetime" = "2"
+L 09/05/2014 - 23:01:27: Server cvar "mp_hostagepenalty" = "0"
+L 09/05/2014 - 23:01:27: Server cvar "mp_limitteams" = "0"
+L 09/05/2014 - 23:01:27: Server cvar "mp_chattime" = "2"
+L 09/05/2014 - 23:01:27: Server cvar "mp_roundtime" = "7"
+L 09/05/2014 - 23:01:27: Server cvar "mp_buytime" = "25"
+L 09/05/2014 - 23:01:27: Server cvar "mp_kickpercent" = "100"
+L 09/05/2014 - 23:01:27: Server cvar "mp_playerid" = "1"
+L 09/05/2014 - 23:01:27: Server cvar "sv_region" = "3"
+L 09/05/2014 - 23:01:27: Server cvar "sv_contact" = "vk.com/id63671168"
+L 09/05/2014 - 23:01:27: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:01:27: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:01:30: World triggered "Round_Start"
+L 09/05/2014 - 23:01:37: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:01:37: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:01:46: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_AVSMP]; pClient = 08B814A0
+L 09/05/2014 - 23:01:46: "Super<1><STEAM_0:0:91697561><>" connected, address "192.168.1.104:27005"
+L 09/05/2014 - 23:01:47: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:01:47: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:01:49: "Super<1><STEAM_0:0:91697561><>" entered the game
+L 09/05/2014 - 23:01:51: "Super<1><STEAM_0:0:91697561><>" joined team "TERRORIST"
+L 09/05/2014 - 23:01:51: "Super<1><STEAM_0:0:91697561><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 09/05/2014 - 23:01:57: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:01:57: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:02:07: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:02:07: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:02:16: "Super<1><STEAM_0:0:91697561><TERRORIST>" say "/buyvip"
+L 09/05/2014 - 23:02:17: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:02:17: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:02:27: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:02:27: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:02:37: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:02:37: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:02:47: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 23:02:47: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 23:02:48: "Super<1><STEAM_0:0:91697561><TERRORIST>" triggered "time" (time "0:58")
+L 09/05/2014 - 23:02:48: "Super<1><STEAM_0:0:91697561><TERRORIST>" triggered "latency" (ping "4")
+L 09/05/2014 - 23:02:48: [WinHL-Booster] ERROR - unable to close performance monitor
+L 09/05/2014 - 23:02:48: [META] ini: Begin re-reading plugins list: c:/users/vadim/desktop/Сервер/cstrike/addons/metamod/plugins.ini
+L 09/05/2014 - 23:02:48: [META] ini: Read plugin config for: AMX Mod X
+L 09/05/2014 - 23:02:48: [META] ini: Read plugin config for: mmtimer
+L 09/05/2014 - 23:02:48: [META] ini: Read plugin config for: dproto
+L 09/05/2014 - 23:02:48: [META] ini: Read plugin config for: WinHL-Booster
+L 09/05/2014 - 23:02:48: [META] ini: Finished reading plugins list: c:/users/vadim/desktop/Сервер/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 09/05/2014 - 23:02:48: [META] dll: Updating plugins...
+L 09/05/2014 - 23:02:48: [META] dll: Finished updating 10 plugins; kept 4, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 09/05/2014 - 23:02:48: "Super<1><STEAM_0:0:91697561><TERRORIST>" triggered "Dropped_The_Bomb"
+L 09/05/2014 - 23:02:48: "Super<1><STEAM_0:0:91697561><TERRORIST>" disconnected
+L 09/05/2014 - 23:02:48: World triggered "Round_Draw" (CT "0") (T "0")
+L 09/05/2014 - 23:02:48: World triggered "Round_End"
+L 09/05/2014 - 23:02:48: Log file closed

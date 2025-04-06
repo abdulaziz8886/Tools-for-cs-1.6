@@ -1,0 +1,13 @@
+[en]
+ADMIN_TELEPORT_1 = ADMIN: teleport %s
+ADMIN_TELEPORT_2 = ADMIN %s: teleport %s
+TELE_MENU = \rTeleport Menu\w
+CUR_LOC = Current Location
+SAVE_LOC = \ySave Location\w
+
+[ru]
+ADMIN_TELEPORT_1 = АДМИНИСТРАТОР телепортировал %s
+ADMIN_TELEPORT_2 = АДМИНИСТРАТОР %s телепортировал %s
+TELE_MENU = \rТелепорт меню\w
+CUR_LOC = Текущее положение
+SAVE_LOC = \yСохранить положение\w

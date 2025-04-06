@@ -1,0 +1,80 @@
+L 09/06/2014 - 08:31:00: -------- Mapchange to de_dust2 --------
+L 09/06/2014 - 08:31:06: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/06/2014 - 08:31:06: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\afk_manager.txt" line 1)
+L 09/06/2014 - 08:31:06: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\block_key.txt" line 1)
+L 09/06/2014 - 08:31:21: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.103")
+L 09/06/2014 - 08:34:18: [pluginmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" set cvar (name "awp_active") (value "0")
+L 09/06/2014 - 08:42:13: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/06/2014 - 08:42:15: -------- Mapchange to de_dust2 --------
+L 09/06/2014 - 08:42:15: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 09/06/2014 - 08:42:16: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/06/2014 - 08:42:16: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.103")
+L 09/06/2014 - 08:52:13: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/06/2014 - 08:52:15: -------- Mapchange to de_dust2 --------
+L 09/06/2014 - 08:52:15: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/06/2014 - 08:52:15: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.103")
+L 09/06/2014 - 08:54:41: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/06/2014 - 08:54:43: -------- Mapchange to de_dust2 --------
+L 09/06/2014 - 08:54:43: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/06/2014 - 08:54:44: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.103")
+L 09/06/2014 - 09:15:50: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/06/2014 - 09:15:52: -------- Mapchange to de_dust2 --------
+L 09/06/2014 - 09:15:52: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/06/2014 - 09:15:52: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\vo_menu.txt
+L 09/06/2014 - 09:15:52: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.103")
+L 09/06/2014 - 09:17:45: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/06/2014 - 09:17:47: -------- Mapchange to de_dust2 --------
+L 09/06/2014 - 09:17:47: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/06/2014 - 09:17:47: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\vo_menu.txt" line 1)
+L 09/06/2014 - 09:17:47: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.103")
+L 09/06/2014 - 09:22:54: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/06/2014 - 09:22:57: -------- Mapchange to de_dust2 --------
+L 09/06/2014 - 09:22:57: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/06/2014 - 09:22:57: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.103")
+L 09/06/2014 - 09:26:37: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/06/2014 - 09:26:39: -------- Mapchange to de_dust2 --------
+L 09/06/2014 - 09:26:40: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/06/2014 - 09:26:40: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\vo_menu.txt" line 1)
+L 09/06/2014 - 09:26:40: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.103")
+L 09/06/2014 - 09:43:02: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/06/2014 - 09:43:04: -------- Mapchange to de_dust2 --------
+L 09/06/2014 - 09:43:05: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/06/2014 - 09:43:05: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\vo_menu.txt" line 1)
+L 09/06/2014 - 09:43:05: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.103")
+L 09/06/2014 - 09:50:13: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/06/2014 - 09:50:15: -------- Mapchange to de_dust2 --------
+L 09/06/2014 - 09:50:15: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/06/2014 - 09:50:15: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.103")
+L 09/06/2014 - 09:57:40: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/06/2014 - 09:57:42: -------- Mapchange to de_dust2 --------
+L 09/06/2014 - 09:57:42: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/06/2014 - 09:57:42: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.103")
+L 09/06/2014 - 10:00:34: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/06/2014 - 10:00:36: -------- Mapchange to de_dust2 --------
+L 09/06/2014 - 10:00:36: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/06/2014 - 10:00:36: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.103")
+L 09/06/2014 - 10:02:08: [mapsmenu.amxx] Cmd: "Super<1><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/06/2014 - 10:02:10: -------- Mapchange to de_dust2 --------
+L 09/06/2014 - 10:02:10: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/06/2014 - 10:02:11: [admin.amxx] Login: "Super<1><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.103")
+L 09/06/2014 - 10:03:51: [admin.amxx] Login: "Super<3><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.103")
+L 09/06/2014 - 10:08:21: [mapsmenu.amxx] Cmd: "Super<3><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/06/2014 - 10:08:24: -------- Mapchange to de_dust2 --------
+L 09/06/2014 - 10:08:24: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/06/2014 - 10:08:24: [admin.amxx] Login: "Super<3><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.103")
+L 09/06/2014 - 10:10:38: [mapsmenu.amxx] Cmd: "Super<3><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/06/2014 - 10:10:40: -------- Mapchange to de_dust2 --------
+L 09/06/2014 - 10:10:40: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/06/2014 - 10:10:40: [admin.amxx] Login: "Super<3><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.103")
+L 09/06/2014 - 10:13:19: [mapsmenu.amxx] Cmd: "Super<3><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/06/2014 - 10:13:21: -------- Mapchange to de_dust2 --------
+L 09/06/2014 - 10:13:22: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/06/2014 - 10:13:22: [admin.amxx] Login: "Super<3><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.103")
+L 09/06/2014 - 10:14:21: [mapsmenu.amxx] Cmd: "Super<3><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/06/2014 - 10:14:23: -------- Mapchange to de_dust2 --------
+L 09/06/2014 - 10:14:23: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/06/2014 - 10:14:23: [admin.amxx] Login: "Super<3><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.103")
+L 09/06/2014 - 10:15:15: [mapsmenu.amxx] Cmd: "Super<3><STEAM_0:0:91697561><>" changelevel "de_dust2"
+L 09/06/2014 - 10:15:17: -------- Mapchange to de_dust2 --------
+L 09/06/2014 - 10:15:17: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\inforank.txt
+L 09/06/2014 - 10:15:18: [admin.amxx] Login: "Super<3><STEAM_0:0:91697561><>" became an admin (account "Super") (access "abcdefghijklmnopqrstu") (address "192.168.1.103")

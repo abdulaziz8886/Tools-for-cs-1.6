@@ -1,0 +1,136 @@
+L 02/02/2025 - 21:11:11: Log file started (file "logs\L0202000.log") (game "cstrike") (version "48/1.6.3.7/5408")
+L 02/02/2025 - 21:11:11: Server cvar "sv_maxspeed" = "320"
+L 02/02/2025 - 21:11:11: Server cvar "sv_maxrate" = "25000"
+L 02/02/2025 - 21:11:11: Server cvar "sv_minrate" = "2500"
+L 02/02/2025 - 21:11:11: Server cvar "decalfrequency" = "60"
+L 02/02/2025 - 21:11:11: Server cvar "mp_timelimit" = "50"
+L 02/02/2025 - 21:11:11: Server cvar "mp_autokick" = "0"
+L 02/02/2025 - 21:11:11: Server cvar "mp_c4timer" = "35"
+L 02/02/2025 - 21:11:11: Server cvar "mp_flashlight" = "1"
+L 02/02/2025 - 21:11:11: Server cvar "mp_freezetime" = "2"
+L 02/02/2025 - 21:11:11: Server cvar "mp_hostagepenalty" = "0"
+L 02/02/2025 - 21:11:11: Server cvar "mp_limitteams" = "0"
+L 02/02/2025 - 21:11:11: Server cvar "mp_chattime" = "2"
+L 02/02/2025 - 21:11:11: Server cvar "mp_roundtime" = "7"
+L 02/02/2025 - 21:11:11: Server cvar "mp_buytime" = "25"
+L 02/02/2025 - 21:11:11: Server cvar "mp_kickpercent" = "100"
+L 02/02/2025 - 21:11:11: Server cvar "mp_playerid" = "1"
+L 02/02/2025 - 21:11:11: Server cvar "sv_region" = "3"
+L 02/02/2025 - 21:11:11: Server cvar "sv_contact" = "vk.com/id63671168"
+L 02/02/2025 - 21:11:11: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:11:11: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:11:13: World triggered "Round_Start"
+L 02/02/2025 - 21:11:21: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:11:21: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:11:31: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:11:31: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:11:41: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:11:41: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:11:51: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:11:51: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:12:01: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:12:01: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:12:11: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:12:11: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:12:17: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 090254A0
+L 02/02/2025 - 21:12:17: "Abdulaziz<1><STEAM_0:0:1951893637><>" connected, address "192.168.137.1:27005"
+L 02/02/2025 - 21:12:21: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:12:21: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:12:23: "Abdulaziz<1><STEAM_0:0:1951893637><>" entered the game
+L 02/02/2025 - 21:12:24: "Abdulaziz<1><STEAM_0:0:1951893637><>" joined team "TERRORIST"
+L 02/02/2025 - 21:12:25: "Abdulaziz<1><STEAM_0:0:1951893637><TERRORIST>" triggered "Spawned_With_The_Bomb"
+L 02/02/2025 - 21:12:31: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:12:31: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:12:41: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:12:41: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:12:51: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:12:51: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:13:01: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:13:01: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:13:11: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:13:11: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:13:21: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:13:21: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:13:31: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:13:31: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:13:35: "Abdulaziz<1><STEAM_0:0:1951893637><TERRORIST>" triggered "Dropped_The_Bomb"
+L 02/02/2025 - 21:13:35: "Abdulaziz<1><STEAM_0:0:1951893637><TERRORIST>" committed suicide with "world"
+L 02/02/2025 - 21:13:35: World triggered "Round_Draw" (CT "0") (T "0")
+L 02/02/2025 - 21:13:35: World triggered "Round_End"
+L 02/02/2025 - 21:13:35: "Abdulaziz<1><STEAM_0:0:1951893637><TERRORIST>" joined team "SPECTATOR"
+L 02/02/2025 - 21:13:41: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:13:41: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:13:42: World triggered "Round_Start"
+L 02/02/2025 - 21:13:51: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:13:51: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:14:01: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:14:01: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:14:11: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:14:11: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:14:21: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:14:21: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:14:31: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:14:31: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:14:41: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:14:41: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:14:51: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:14:51: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:15:01: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:15:01: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:15:11: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:15:11: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:15:21: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:15:21: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:15:31: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:15:31: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:15:41: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:15:41: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:15:51: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:15:51: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:16:01: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:16:01: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:16:11: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:16:11: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:16:20: Server cvar "mp_freezetime" = "0"
+L 02/02/2025 - 21:16:21: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:16:21: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:16:31: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:16:31: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:16:34: Server cvar "mp_startmoney" = "16000"
+L 02/02/2025 - 21:16:41: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:16:41: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:16:49: Server cvar "mp_forcecamera" = "1"
+L 02/02/2025 - 21:16:51: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:16:51: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:17:01: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:17:01: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:17:11: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:17:11: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:17:16: Server cvar "mp_flashlight" = "0"
+L 02/02/2025 - 21:17:21: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:17:21: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:17:31: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:17:31: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:17:41: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:17:41: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:17:51: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:17:51: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:18:01: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 02/02/2025 - 21:18:01: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 02/02/2025 - 21:18:02: "Abdulaziz<1><STEAM_0:0:1951893637><SPECTATOR>" triggered "weaponstats" (weapon "glock18") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 02/02/2025 - 21:18:02: "Abdulaziz<1><STEAM_0:0:1951893637><SPECTATOR>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 02/02/2025 - 21:18:02: "Abdulaziz<1><STEAM_0:0:1951893637><SPECTATOR>" triggered "time" (time "5:28")
+L 02/02/2025 - 21:18:02: "Abdulaziz<1><STEAM_0:0:1951893637><SPECTATOR>" triggered "latency" (ping "21")
+L 02/02/2025 - 21:18:02: [WinHL-Booster] ERROR - unable to close performance monitor
+L 02/02/2025 - 21:18:02: [META] ini: Begin re-reading plugins list: c:/users/acer/downloads/public_server_1/Сервер/cstrike/addons/metamod/plugins.ini
+L 02/02/2025 - 21:18:02: [META] ini: Read plugin config for: AMX Mod X
+L 02/02/2025 - 21:18:02: [META] ini: Read plugin config for: mmtimer
+L 02/02/2025 - 21:18:02: [META] ini: Read plugin config for: dproto
+L 02/02/2025 - 21:18:02: [META] ini: Read plugin config for: WinHL-Booster
+L 02/02/2025 - 21:18:02: [META] ini: Finished reading plugins list: c:/users/acer/downloads/public_server_1/Сервер/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 02/02/2025 - 21:18:02: [META] dll: Updating plugins...
+L 02/02/2025 - 21:18:02: [META] dll: Finished updating 10 plugins; kept 4, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 02/02/2025 - 21:18:02: "Abdulaziz<1><STEAM_0:0:1951893637><SPECTATOR>" disconnected
+L 02/02/2025 - 21:18:02: World triggered "Round_Draw" (CT "0") (T "0")
+L 02/02/2025 - 21:18:02: World triggered "Round_End"
+L 02/02/2025 - 21:18:02: Log file closed

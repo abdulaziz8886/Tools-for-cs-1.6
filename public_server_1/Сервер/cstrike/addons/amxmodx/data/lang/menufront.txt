@@ -1,0 +1,35 @@
+[en]
+KICK_PLAYER = \yKick Player\w
+BAN_PLAYER = \rBan Player\w
+SLAP_SLAY = \ySlap/Slay Player\w
+TEAM_PLAYER = Team Player ^n
+CHANGEL = \yChangelevel\w
+VOTE_MAPS = \yVote for maps\w ^n
+SPECH_STUFF = \ySpeech Stuff\w
+CLIENT_COM = Client Commands
+SERVER_COM = Server Commands
+CVARS_SET = Cvars Settings
+CONFIG = \rConfiguration\w
+LANG_SET = \rLanguage Settings\w
+STATS_SET = \yStats Settings\w ^n
+PAUSE_PLUG = \yPause Plugins\w
+RES_WEAP = \rRestrict Weapons\w
+TELE_PLAYER = \yTeleport Player\w
+
+[ru]
+KICK_PLAYER = \yКикнуть\w
+BAN_PLAYER = \rЗабанить\w
+SLAP_SLAY = \yУдарить/Убить\w
+TEAM_PLAYER = Команда игрока
+CHANGEL = \yСмена карты\w
+VOTE_MAPS = \yГолосование за карту\w
+SPECH_STUFF = \yГолосовые сообщения\w
+CLIENT_COM = Команды для клиента
+SERVER_COM = Серверные команды
+CVARS_SET = Значения переменных
+CONFIG = \rКонфигурации\w
+LANG_SET = \rНастройки языка\w
+STATS_SET = \yНастройки статистики\w
+PAUSE_PLUG = \yУправление плагинами\w
+RES_WEAP = \rЗапрет оружия\w
+TELE_PLAYER = \yТелепорт\w

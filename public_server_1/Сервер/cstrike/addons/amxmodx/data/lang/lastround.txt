@@ -1,0 +1,15 @@
+[en]
+FINAL_ROUND = FINAL ROUND
+FINAL_COMING = The FINAL ROUND^nis coming up
+VOTE_COUNTER = %i seconds:^n^n%s
+RTV_NOTALLOWED = !nVote is currently not allowed. Wait !g%d !nminutes !g%d !nseconds.
+RTV_ALREADY = You have already voted!
+RTV_ADDVOTE = !g[MapChooser 2.0] !n"!g%s!n" vote was added. Need !g%d !nto start voting! (!g%d^%^%!n)
+
+[ru]
+FINAL_ROUND = Последний раунд
+FINAL_COMING = Внимание! Ожидается^nПоследний раунд...
+VOTE_COUNTER = через %i секунд:^n^n%s
+RTV_NOTALLOWED = !g[MapChooser 2.0] !nГолосование будет доступно через !g%d !nминут !g%d !nсекунд.
+RTV_ALREADY = !g[MapChooser 2.0] !tВы уже проголосовали!
+RTV_ADDVOTE = !g[MapChooser 2.0] !n"!g%s!n" проголосовал. Для голосования нужно еще !g%d !nголосов! (!g%d^%^%!n)

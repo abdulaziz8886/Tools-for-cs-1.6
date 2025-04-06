@@ -1,0 +1,11 @@
+﻿[ru]
+VO_MENU_INFORMER =
+VO_IPS =
+VO_RS_INFO = Ваш счет успешно обнулен
+VO_ADM_NO =
+
+[en]
+VO_MENU_INFORMER = 
+VO_IPS = 
+VO_RS_INFO = Ваш счет успешно обнулен
+VO_ADM_NO = 

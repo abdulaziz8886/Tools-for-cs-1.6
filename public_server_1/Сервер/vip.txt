@@ -1,0 +1,38 @@
+﻿<HTML>
+<HEAD>
+<TITLE>Купить V.I.P.</TITLE>
+<STYLE>
+body { font-family: Tahoma }
+</STYLE>
+</HEAD>
+<BODY bgcolor=black>
+<FONT color=white>
+<UL>
+<FONT color=gold>Привилегии V.I.P:</FONT>
+<LI>В начале каждого раунда ты получишь все гранаты.</LI>
+<LI>В начале каждого раунда ты получишь полную броню.</LI>
+<LI>За убийство игрока ты получаешь <FONT color=lime>500$</FONT>, а если в голову <FONT color=red>800$</FONT>.</LI>
+<LI>За убийство игрока ты получаешь <FONT color=lime>15HP</FONT>, а если в голову <FONT color=red>30HP</FONT>.</LI>
+<LI>Тебе будет показываться урон, наносимый игроку.</LI>
+<LI>Теперь ты сможешь брать AWP.</LI>
+<LI>ты появишся в списке /vips.</LI>
+<LI>Резервированный слот.</LI>
+</UL>
+<BR>
+<UL>
+<FONT color=gold>После 3-го раунда:</FONT>
+<LI>Бесплатное AK47+Deagle.</LI>
+<LI>Бесплатное M4A1+Deagle.</LI>
+</UL>
+<BR>
+<UL>
+<FONT color=gold>Покупка vip прав</FONT>
+<LI><FONT color=orange>Администратора</FONT>: Super</LI>
+<LI><FONT color=green>Имя администратора</FONT>: Вадим</LI>
+<LI><FONT color=blue>Skype</FONT>: vadgo.com</LI>
+<LI><FONT color=red>Цена</FONT>: 100 рублей</LI>
+
+</UL>
+</FONT>
+</BODY>
+</HTML>

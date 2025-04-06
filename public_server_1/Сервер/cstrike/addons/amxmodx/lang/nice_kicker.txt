@@ -1,0 +1,33 @@
+[ru]
+NK_INFO_1 = Внимание %s!
+NK_INFO_2 = Игроки с пингом выше %d будут выпилены с сервера!
+NK_INFO_3 = Игроки с потерями больше %d будут выпилены с сервера!
+NK_INFO_HUD = Внимание %s!^nМакс. пинг на сервере %d^nМакс. потери на сервере %d^nСвыше вы будете выпилены с сервера!
+NK_USER = Игрок %s^nзашел на сервер.^nТекущий пинг %d.^nТекущие потери %d.
+NK_WARN_PING = Внимание %s! У вас слишком высокий пинг %d!
+NK_WARN_PING_HUD = Внимание %s!^nУ вас слишком высокий пинг %d!
+NK_WARN_LOSS = Внимание %s! У вас слишком большие потери %d!
+NK_WARN_LOSS_HUD = Внимание %s!^nУ вас слишком большие потери %d!
+NK_PING = Игрок %s! Был выпилен за высокий пинг %d!
+NK_PING_HUD = Игрок %s!^nБыл выпилен за высокий пинг %d!
+NK_LOSS = Игрок %s! Был выпилен за большие потери %d!
+NK_LOSS_HUD = Игрок %s!^nБыл выпилен за большие потери %d!
+NK_RES_PING = Выпилен за высокий пинг %d!
+NK_RES_LOSS = Выпилен за большие потери %d!
+
+[en]
+NK_INFO_1 = Attention %s!
+NK_INFO_2 = Players with ping above %d will be drank with server!
+NK_INFO_3 = Players with more losses %d will be drank with server!
+NK_INFO_HUD = Attention %s!^nMax. ping on the server %d^nMax. losses on the server %d^nMore than you drank with the server!
+NK_USER = Player %s^ncome for server^nCurrent ping %d.^nCurrent loss %d.
+NK_WARN_PING = Attention %s! You have too high ping %d!
+NK_WARN_PING_HUD = Attention %s!^nYou have too high ping %d!
+NK_WARN_LOSS = Attention %s! You have too big losses %d!
+NK_WARN_LOSS_HUD = Attention %s!^nYou have too big losses %d!
+NK_PING = Player %s! Was drank to the high ping %d!
+NK_PING_HUD = Player %s!^nWas drank to the high ping %d!
+NK_LOSS = Player %s! Was drank to big losses %d!
+NK_LOSS_HUD = Player %s!^nWas drank to big losses %d!
+NK_RES_PING = Drank to high ping %d!
+NK_RES_LOSS = He drank a great loss %d!

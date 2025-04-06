@@ -1,0 +1,368 @@
+L 09/05/2014 - 15:43:30: Log file started (file "logs\L0905011.log") (game "cstrike") (version "48/1.6.3.7/5408")
+L 09/05/2014 - 15:43:30: Server cvar "sv_maxspeed" = "320"
+L 09/05/2014 - 15:43:30: Server cvar "sv_maxrate" = "25000"
+L 09/05/2014 - 15:43:30: Server cvar "sv_minrate" = "2500"
+L 09/05/2014 - 15:43:30: Server cvar "decalfrequency" = "60"
+L 09/05/2014 - 15:43:30: Server cvar "mp_timelimit" = "50"
+L 09/05/2014 - 15:43:30: Server cvar "mp_autokick" = "0"
+L 09/05/2014 - 15:43:30: Server cvar "mp_c4timer" = "35"
+L 09/05/2014 - 15:43:30: Server cvar "mp_flashlight" = "1"
+L 09/05/2014 - 15:43:30: Server cvar "mp_freezetime" = "2"
+L 09/05/2014 - 15:43:30: Server cvar "mp_hostagepenalty" = "0"
+L 09/05/2014 - 15:43:30: Server cvar "mp_limitteams" = "0"
+L 09/05/2014 - 15:43:30: Server cvar "mp_chattime" = "2"
+L 09/05/2014 - 15:43:30: Server cvar "mp_roundtime" = "7"
+L 09/05/2014 - 15:43:30: Server cvar "mp_buytime" = "25"
+L 09/05/2014 - 15:43:30: Server cvar "mp_kickpercent" = "100"
+L 09/05/2014 - 15:43:30: Server cvar "mp_playerid" = "1"
+L 09/05/2014 - 15:43:30: Server cvar "sv_region" = "3"
+L 09/05/2014 - 15:43:30: Server cvar "sv_contact" = "vk.com/id63671168"
+L 09/05/2014 - 15:43:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:43:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:43:33: World triggered "Round_Start"
+L 09/05/2014 - 15:43:38: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_AVSMP]; pClient = 08A214A0
+L 09/05/2014 - 15:43:38: "Super<1><STEAM_0:0:91697561><>" connected, address "192.168.1.101:27005"
+L 09/05/2014 - 15:43:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:43:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:43:44: "Super<1><STEAM_0:0:91697561><>" entered the game
+L 09/05/2014 - 15:43:46: "Super<1><STEAM_0:0:91697561><>" joined team "CT"
+L 09/05/2014 - 15:43:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:43:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:44:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:44:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:44:08: "Super<1><STEAM_0:0:91697561><CT>" say "/admins"
+L 09/05/2014 - 15:44:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:44:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:44:10: "Super<1><STEAM_0:0:91697561><CT>" say "g"
+L 09/05/2014 - 15:44:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:44:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:44:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:44:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:44:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:44:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:44:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:44:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:44:58: "Super<1><STEAM_0:0:91697561><CT>" committed suicide with "world"
+L 09/05/2014 - 15:44:58: World triggered "Round_Draw" (CT "0") (T "0")
+L 09/05/2014 - 15:44:58: World triggered "Round_End"
+L 09/05/2014 - 15:44:58: "Super<1><STEAM_0:0:91697561><CT>" joined team "SPECTATOR"
+L 09/05/2014 - 15:45:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:45:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:45:05: World triggered "Round_Start"
+L 09/05/2014 - 15:45:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:45:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:45:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:45:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:45:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:45:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:45:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:45:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:45:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:45:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:46:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:46:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:46:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:46:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:46:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:46:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:46:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:46:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:46:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:46:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:46:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:46:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:46:59: "Super<1><STEAM_0:0:91697561><SPECTATOR>" joined team "CT"
+L 09/05/2014 - 15:46:59: World triggered "Round_Draw" (CT "0") (T "0")
+L 09/05/2014 - 15:46:59: World triggered "Round_End"
+L 09/05/2014 - 15:47:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:47:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:47:00: World triggered "Round_Draw" (CT "0") (T "0")
+L 09/05/2014 - 15:47:00: World triggered "Round_End"
+L 09/05/2014 - 15:47:06: "Super<1><STEAM_0:0:91697561><CT>" say "/rs"
+L 09/05/2014 - 15:47:07: World triggered "Round_Start"
+L 09/05/2014 - 15:47:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:47:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:47:19: "Super<1><STEAM_0:0:91697561><CT>" say "/dm"
+L 09/05/2014 - 15:47:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:47:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:47:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:47:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:47:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:47:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:47:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:47:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:48:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:48:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:48:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:48:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:48:13: "Super<1><STEAM_0:0:91697561><CT>" committed suicide with "world"
+L 09/05/2014 - 15:48:13: World triggered "Round_Draw" (CT "0") (T "0")
+L 09/05/2014 - 15:48:13: World triggered "Round_End"
+L 09/05/2014 - 15:48:13: "Super<1><STEAM_0:0:91697561><CT>" joined team "SPECTATOR"
+L 09/05/2014 - 15:48:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:48:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:48:20: World triggered "Round_Start"
+L 09/05/2014 - 15:48:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:48:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:48:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:48:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:48:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:48:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:49:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:49:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:49:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:49:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:49:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:49:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:49:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:49:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:49:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:49:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:49:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:49:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:50:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:50:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:50:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:50:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:50:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:50:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:50:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:50:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:50:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:50:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:50:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:50:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:51:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:51:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:51:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:51:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:51:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:51:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:51:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:51:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:51:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:51:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:51:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:51:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:52:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:52:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:52:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:52:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:52:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:52:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:52:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:52:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:52:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:52:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:52:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:52:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:53:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:53:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:53:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:53:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:53:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:53:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:53:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:53:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:53:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:53:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:53:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:53:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:54:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:54:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:54:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:54:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:54:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:54:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:54:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:54:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:54:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:54:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:54:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:54:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:55:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:55:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:55:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:55:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:55:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:55:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:55:20: Team "CT" triggered "Target_Saved" (CT "1") (T "0")
+L 09/05/2014 - 15:55:20: World triggered "Round_End"
+L 09/05/2014 - 15:55:27: World triggered "Round_Start"
+L 09/05/2014 - 15:55:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:55:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:55:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:55:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:55:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:55:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:56:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:56:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:56:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:56:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:56:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:56:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:56:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:56:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:56:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:56:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:56:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:56:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:57:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:57:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:57:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:57:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:57:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:57:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:57:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:57:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:57:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:57:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:57:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:57:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:58:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:58:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:58:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:58:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:58:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:58:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:58:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:58:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:58:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:58:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:58:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:58:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:59:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:59:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:59:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:59:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:59:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:59:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:59:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:59:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:59:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:59:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 15:59:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 15:59:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:00:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:00:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:00:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:00:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:00:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:00:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:00:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:00:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:00:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:00:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:00:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:00:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:01:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:01:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:01:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:01:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:01:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:01:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:01:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:01:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:01:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:01:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:01:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:01:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:02:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:02:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:02:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:02:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:02:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:02:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:02:27: Team "CT" triggered "Target_Saved" (CT "2") (T "0")
+L 09/05/2014 - 16:02:27: World triggered "Round_End"
+L 09/05/2014 - 16:02:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:02:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:02:34: World triggered "Round_Start"
+L 09/05/2014 - 16:02:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:02:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:02:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:02:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:03:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:03:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:03:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:03:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:03:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:03:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:03:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:03:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:03:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:03:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:03:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:03:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:04:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:04:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:04:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:04:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:04:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:04:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:04:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:04:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:04:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:04:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:04:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:04:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:05:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:05:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:05:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:05:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:05:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:05:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:05:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:05:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:05:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:05:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:05:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:05:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:06:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:06:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:06:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:06:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:06:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:06:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:06:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:06:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:06:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:06:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:06:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:06:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:07:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:07:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:07:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:07:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:07:20: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:07:20: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:07:30: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:07:30: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:07:40: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:07:40: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:07:50: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:07:50: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:08:00: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:08:00: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:08:10: [DPROTO]: [MEMU]: Hello sent to 68.142.72.250:27010
+L 09/05/2014 - 16:08:10: [DPROTO]: [MEMU]: Hello sent to 69.28.151.162:27010
+L 09/05/2014 - 16:08:12: "Super<1><STEAM_0:0:91697561><SPECTATOR>" triggered "weaponstats" (weapon "usp") (shots "12") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 09/05/2014 - 16:08:12: "Super<1><STEAM_0:0:91697561><SPECTATOR>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 09/05/2014 - 16:08:12: "Super<1><STEAM_0:0:91697561><SPECTATOR>" triggered "weaponstats" (weapon "knife") (shots "12") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 09/05/2014 - 16:08:12: "Super<1><STEAM_0:0:91697561><SPECTATOR>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 09/05/2014 - 16:08:12: "Super<1><STEAM_0:0:91697561><SPECTATOR>" triggered "time" (time "24:27")
+L 09/05/2014 - 16:08:12: "Super<1><STEAM_0:0:91697561><SPECTATOR>" triggered "latency" (ping "4")
+L 09/05/2014 - 16:08:12: [WinHL-Booster] ERROR - unable to close performance monitor
+L 09/05/2014 - 16:08:12: [META] ini: Begin re-reading plugins list: c:/users/vadim/desktop/Сервер/cstrike/addons/metamod/plugins.ini
+L 09/05/2014 - 16:08:12: [META] ini: Read plugin config for: AMX Mod X
+L 09/05/2014 - 16:08:12: [META] ini: Read plugin config for: mmtimer
+L 09/05/2014 - 16:08:12: [META] ini: Read plugin config for: dproto
+L 09/05/2014 - 16:08:12: [META] ini: Read plugin config for: WinHL-Booster
+L 09/05/2014 - 16:08:12: [META] ini: Finished reading plugins list: c:/users/vadim/desktop/Сервер/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 09/05/2014 - 16:08:12: [META] dll: Updating plugins...
+L 09/05/2014 - 16:08:12: [META] dll: Finished updating 10 plugins; kept 4, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 09/05/2014 - 16:08:12: "Super<-1><><SPECTATOR>" disconnected
+L 09/05/2014 - 16:08:12: World triggered "Round_Draw" (CT "2") (T "0")
+L 09/05/2014 - 16:08:12: World triggered "Round_End"
+L 09/05/2014 - 16:08:12: Server shutdown
+L 09/05/2014 - 16:08:12: Log file closed

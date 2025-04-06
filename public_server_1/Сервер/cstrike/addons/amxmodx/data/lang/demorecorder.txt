@@ -1,0 +1,23 @@
+[en]
+DEMO_START = !g[Запись] !teamStart recording a demo
+DEMO_INFO_PLAYER = !g[Запись] !team[Nick: !g%s!team] [IP: !g%s!team] [Time: !g%s!team] [Map: !g%s!team]
+DEMO_FILE = !g[Запись] !teamDemo recording in file: !g%s
+DEMO_INFO = !g[Запись] !teamBanned? Visit !g%s
+DEMO_HUD = Start recording a demo^nServer: %s^nAddress: %s^nNick: %s^nIP: %s^nTime: %s^nMap: %s^nFile: %s^nBanned? Visit %s
+DEMO_CMD_IFNO = Type /record or /demo start recording a demo
+DEMO_AUTO_NO_STOP = You can't stop recording
+DEMO_STOP = Recording was stopped
+DEMO_STOP_INFO = Type /stop will stop recording
+DEMO_CMD_OFF = Manual recording disable
+
+[ru]
+DEMO_START = !g[Запись] !teamЗапись демо началась
+DEMO_INFO_PLAYER = !g[Запись] !team[Ник: !g%s!team] [IP: !g%s!team] [Время: !g%s!team] [Карта: !g%s!team]
+DEMO_FILE = !g[Запись] !teamДемо записывается в файл: !g%s
+DEMO_INFO = !g[Запись] !teamВ cлучае бана обращайтесь !g%s
+DEMO_HUD = Запись демо началась^nСервер: %s^nАдрес: %s^nНик: %s^nIP: %s^nВремя: %s^nКарта: %s^nФайл: %s^nВ cлучае бана обращайтесь %s
+DEMO_CMD_INFO = Чтобы начать запись демо напишите /record или /demo
+DEMO_AUTO_NO_STOP = Нельзя остановить запись демо
+DEMO_STOP = Запись демо онстановлена
+DEMO_STOP_INFO = Чтобы остановить запись пишите /stop
+DEMO_CMD_OFF = Ручной режим отключен
